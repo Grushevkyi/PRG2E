@@ -9,7 +9,7 @@ public class Basics {
     }
 
     static void printGreeting(String name){
-        System.out.println("Ahoj " + name);
+        System.out.println("Ahojh" + name);
     }
 
     private static void sum(int a, int b){
